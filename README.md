@@ -2,7 +2,7 @@
 
 
 - ⚡ full stack dev ✨ ✨
-- 🔭 currently focused on React.js and React-native development for [Inventsys CH](https://inventsys.ch/de/team);
+- 🔭 currently focused on React-native development for [Utility NYC](https://utilitynyc.com/);
 - 🌱 learning deep-learning;
 - 💬 Ask me about anything.
 
