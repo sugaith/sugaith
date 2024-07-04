@@ -2,7 +2,7 @@
 
 
 - ⚡ full stack dev ✨ ✨
-- 🔭 currently focused on React Native & building development tools for [Utility NYC](https://utilitynyc.com/);
+- 🔭 currently focused on React Native & Platform Development for [Utility NYC](https://utilitynyc.com/);
 - 🌱 learning deep-learning;
 - 💬 Ask me about anything.
 
