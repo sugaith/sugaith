@@ -10,4 +10,4 @@
 
 [![StackOverflow Badge](https://stackoverflow-badge.vercel.app/?userID=7546092)](https://stackoverflow.com/users/7546092/sugaith)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Thiago%20da%20Silva-blue)](https://www.linkedin.com/in/thiago-c-l-da-silva-45b47938/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Thiago%20da%20Silva-blue)](https://www.linkedin.com/in/thiago-da-silva-45b47938/)
