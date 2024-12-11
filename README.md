@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- ⚡ full stack dev ✨ ✨
-- 🔭 currently focused on React Native & Platform Development for [Utility NYC](https://utilitynyc.com/);
+- ⚡ Software Engineer ✨ ✨
+- 🔭 focused on React Native & Platform Development for [Utility NYC](https://utilitynyc.com/);
 - 🌱 learning deep-learning;
 - 💬 Ask me about anything.
 
