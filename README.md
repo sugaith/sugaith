@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 focused on React Native & Platform Development for [Utility NYC](https://utilitynyc.com/);
+- ⚡ Software Engineer - last 8 years dedicated to Mobile App Development ✨ ✨
+- 🔭 currently focused on React Native & Platform Development for [Utility NYC](https://utilitynyc.com/);
 - 🌱 learning deep-learning;
 - 💬 Ask me about anything.
 
