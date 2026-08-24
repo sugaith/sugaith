@@ -11,5 +11,4 @@
 
 [![LeetCode user sugaith](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsugaith&logo=leetcode&logoColor=yellow)](https://leetcode.com/sugaith/)
 
-[![Wakatime Badge](https://thiagodasil-wakatime-ho-44.deno.dev/api/badge?labelColor=blueviolet&style=for-the-badge&color=black)](https://wakatime.com/@sugaith)
-
+[![wakatime](https://wakatime.com/badge/user/e547c500-770e-4db3-9af5-645f9e2e3837.svg)](https://wakatime.com/@e547c500-770e-4db3-9af5-645f9e2e3837)
